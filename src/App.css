@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  color: black;
+  
+}
+
+.img {
+  max-width: 250px;
+ 
+}
+
+
+
+.card{
+  display: flex;
+  justify-content: space-between;
+} 
+
+
